@@ -1,6 +1,6 @@
 ## Data and analysis repository
 
-This respository contains the data and analyses script of Failing, Wang & Theeuwes (2019):  *Spatial suppression due to statistical regularities is driven by distractor suppression not by target activation.* \
+This respository contains the data and analyses script of Failing, Wang & Theeuwes (2019):  *Spatial suppression due to statistical regularities is driven by distractor suppression not by target activation.* published in Attention, Perception & Psychophysics \
 (see also https://osf.io/fnyxk/)
 
 ---
